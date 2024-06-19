@@ -52,6 +52,7 @@ public class Main {
 }
 ```
 <H3>[결과]</H3>
+
 ```
 1
 2
@@ -59,7 +60,9 @@ public class Main {
 4
 5
 ```
+
 ---
+
 <H3>[참고]</H3>
 - PriorityQueue는 기본적으로 오름차순이기 때문에 내림차순으로 사용하려면 Comparator를 사용해야 한다. 
 - PriorityQueue는 힙을 사용하기 때문에 시간복잡도가 O(logN)이다.
@@ -67,6 +70,6 @@ public class Main {
 - Binary Heap을 사용하여 구현되어 있어서 데이터 중복값이 존재할 수 있다.
 ---
 
-<H3>**[관련문제]**</H3>
-백준 11279번 최대 힙 : https://www.acmicpc.net/problem/11279 
-```
+<H3>[관련문제]</H3>
+- 백준 11279번 최대 힙(https://www.acmicpc.net/problem/11279)
+
