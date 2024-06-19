@@ -7,4 +7,8 @@
 ### JPA 
 - [ORM, JPA, QueryDSL 특징 및 이론 정리](https://github.com/moonheejae/Study/blob/main/JPA/ORM%EA%B3%BC%20JPA%20%ED%8A%B9%EC%A7%95.md)
 - [JPA의 더티체킹](https://github.com/moonheejae/Study/blob/main/JPA/JPA%EC%9D%98%20%EB%8D%94%ED%8B%B0%EC%B2%B4%ED%82%B9.md)
-- [JPA]
+
+
+### Algorithm
+- [우선순위 큐] (https://github.com/moonheejae/Study/blob/main/Algorithm/%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90%20-%20PriorityQueue.md)
+
