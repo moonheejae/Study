@@ -12,3 +12,5 @@
 ### Algorithm
 - [우선순위 큐](https://github.com/moonheejae/Study/blob/main/Algorithm/%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%20%ED%81%90%20-%20PriorityQueue.md)
 
+### Javascript
+- [자바스크립트 기초](https://github.com/moonheejae/Study/blob/main/JavaScript/js.md)
