@@ -195,6 +195,33 @@ sudo systemctl status node_exporter
 <br/>  
 
 
+---
+
+<br/>
+
+## Grafana
+
+1. **Grafana 설치**
+
+```bash
+#그라파나 무료 버전 설치 
+wget https://dl.grafana.com/oss/release/grafana-11.2.0.linux-amd64.tar.gz
+tar -zxvf grafana-11.2.0.linux-amd64.tar.gz
+
+#필요시 system 경로에 cp
+
+#서비스 시작 
+sudo systemctl enable grafana-server
+sudo systemctl start grafana-server
+systemctl status grafana-server
+```
+
+2. **Grafana 서비스 상태 확인**
+
+- 기본적으로 3000포트 설정 - http://{ip}:3000 로 그라파나 접속되면 성공 (ID: admin /PWD: admin)
+
+
+<br/>
 
 ----
 
