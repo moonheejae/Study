@@ -1,0 +1,4 @@
+## Google Translation private key
+google:
+  credentials:
+    key: 구글 인증키를 추가해주세요 
