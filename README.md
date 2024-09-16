@@ -14,3 +14,17 @@
 
 ### Javascript
 - [자바스크립트 기초](https://github.com/moonheejae/Study/blob/main/JavaScript/js.md)
+
+<br/>
+
+---
+
+<br/>
+
+# API 
+
+### Google 
+- [구글 번역 API](https://github.com/moonheejae/Study/tree/main/GoogleAPI/Translation)
+
+### Mornitoring 
+- [그라파나](https://github.com/moonheejae/Study/tree/main/Mornitoring)
